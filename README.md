@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Alvaro Toledo (follow me on [Twitter](http))
+Alvaro Toledo (follow me on [Instagram](https://www.instagram.com/alvaro.tolledo/))
 
 ## License
 ```
